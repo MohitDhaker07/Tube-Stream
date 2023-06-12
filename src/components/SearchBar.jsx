@@ -16,7 +16,7 @@ const SearchBar = () => {
 
             <IconButton type="submit" sx={{ p: '10px', color: 'black' }} >
                 <SearchIcon />
-                <KeyboardVoiceIcon />
+                {/* <KeyboardVoiceIcon /> */}
             </IconButton>
 
         </Paper>
